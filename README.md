@@ -1,7 +1,7 @@
 ## IBM Capstone Project
 
 E-MAIL: dannygarcia193@gmail.com         
-Data completed: January, 2019
+Data completed: January, 2020
 
 **Project Name:** Initial Location Analysis For Restaurante La Tierra De Tacos
 
