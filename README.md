@@ -2,7 +2,7 @@
 
 E-MAIL: dannygarcia193@gmail.com         
 Data completed: January, 2020
-
+  
 <a href="https://nbviewer.jupyter.org/github/dannygarcia193/Location_Analysis/blob/master/IBM_Capstone_Project.ipynb"><b>Click here<b/></a> to see jupyter notebook.
   
 **Project Name:** Initial Location Analysis For Restaurante La Tierra De Tacos
