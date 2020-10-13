@@ -3,6 +3,8 @@
 E-MAIL: dannygarcia193@gmail.com         
 Data completed: January, 2020
 
+<a href="https://nbviewer.jupyter.org/github/dannygarcia193/Location_Analysis/blob/master/IBM_Capstone_Project.ipynb"><b>Click here<b/></a> to see jupyter notebook.
+  
 **Project Name:** Initial Location Analysis For Restaurante La Tierra De Tacos
 
 **Project description:** Hello this is my submission to the IBM captone project assignment--a hypothetical project based on IBM's capstone project guidelines. I should note that this project is completely independent as I came up with the research questions, guidelines, data collection strategy etc. 
